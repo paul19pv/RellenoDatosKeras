@@ -49,7 +49,7 @@ xticks(rotation='vertical')
 
 
 
-![png](img/procesamiento/img/procesamiento/output_1_1.png)
+![png](img/procesamiento/output_1_1.png)
 
 
 
@@ -81,7 +81,7 @@ calcular_correlacion(datos_simulados.loc[:,todas_estaciones])
     
 
 
-![png](img/procesamiento/img/procesamiento/output_2_1.png)
+![png](img/procesamiento/output_2_1.png)
 
 
 
