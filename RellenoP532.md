@@ -94,7 +94,7 @@ resumen
 
 
 <div>
-<style scoped>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -480,7 +480,7 @@ legend(loc='best')
 
 
 
-![png](output_8_1.png)
+![png](img/output_8_1.png)
 
 
 
