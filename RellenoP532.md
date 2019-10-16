@@ -1,5 +1,4 @@
 
-(setq markdown-css-paths '("/css/style.css"))
 ```python
 # librerias para el procesamiento
 %pylab inline
